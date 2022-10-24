@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\bin\Debug\netcoreapp3.1\09This.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\bin\Debug\netcoreapp3.1\09This.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\bin\Debug\netcoreapp3.1\09This.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\bin\Debug\netcoreapp3.1\09This.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\09This\obj\Debug\netcoreapp3.1\09This.genruntimeconfig.cache
