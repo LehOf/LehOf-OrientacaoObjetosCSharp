@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\bin\Debug\netcoreapp3.1\10Herança.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\bin\Debug\netcoreapp3.1\10Herança.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\bin\Debug\netcoreapp3.1\10Herança.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\bin\Debug\netcoreapp3.1\10Herança.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\bin\Debug\netcoreapp3.1\10Herança.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\bin\Debug\netcoreapp3.1\10Herança.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\10Herança\obj\Debug\netcoreapp3.1\10Herança.genruntimeconfig.cache
