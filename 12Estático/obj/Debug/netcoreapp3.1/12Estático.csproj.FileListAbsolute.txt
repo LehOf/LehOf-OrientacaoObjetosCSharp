@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\bin\Debug\netcoreapp3.1\12Estático.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\bin\Debug\netcoreapp3.1\12Estático.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\bin\Debug\netcoreapp3.1\12Estático.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\bin\Debug\netcoreapp3.1\12Estático.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\bin\Debug\netcoreapp3.1\12Estático.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\bin\Debug\netcoreapp3.1\12Estático.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\12Estático\obj\Debug\netcoreapp3.1\12Estático.genruntimeconfig.cache
