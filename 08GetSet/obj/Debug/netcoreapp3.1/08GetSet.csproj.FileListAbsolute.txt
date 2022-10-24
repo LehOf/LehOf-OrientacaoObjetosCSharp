@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.genruntimeconfig.cache
