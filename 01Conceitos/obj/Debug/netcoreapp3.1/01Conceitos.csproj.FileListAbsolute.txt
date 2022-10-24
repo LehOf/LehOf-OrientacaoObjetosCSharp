@@ -1,0 +1,14 @@
+H:\Desktop\Orientação Objetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.exe
+H:\Desktop\Orientação Objetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.deps.json
+H:\Desktop\Orientação Objetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.json
+H:\Desktop\Orientação Objetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.dev.json
+H:\Desktop\Orientação Objetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.dll
+H:\Desktop\Orientação Objetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.pdb
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csproj.AssemblyReference.cache
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfoInputs.cache
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfo.cs
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csproj.CoreCompileInputs.cache
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.dll
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.pdb
+H:\Desktop\Orientação Objetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.genruntimeconfig.cache

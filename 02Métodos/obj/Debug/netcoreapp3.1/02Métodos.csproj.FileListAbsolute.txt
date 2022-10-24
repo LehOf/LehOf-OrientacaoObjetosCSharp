@@ -1,0 +1,14 @@
+H:\Desktop\Orientação Objetos\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.exe
+H:\Desktop\Orientação Objetos\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.deps.json
+H:\Desktop\Orientação Objetos\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.runtimeconfig.json
+H:\Desktop\Orientação Objetos\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.runtimeconfig.dev.json
+H:\Desktop\Orientação Objetos\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.dll
+H:\Desktop\Orientação Objetos\02Métodos\bin\Debug\netcoreapp3.1\02Métodos.pdb
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.csproj.AssemblyReference.cache
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.AssemblyInfoInputs.cache
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.AssemblyInfo.cs
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.csproj.CoreCompileInputs.cache
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.dll
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.pdb
+H:\Desktop\Orientação Objetos\02Métodos\obj\Debug\netcoreapp3.1\02Métodos.genruntimeconfig.cache
