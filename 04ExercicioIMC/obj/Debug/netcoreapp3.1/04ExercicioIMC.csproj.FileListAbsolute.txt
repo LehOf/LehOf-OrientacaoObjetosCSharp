@@ -12,3 +12,17 @@ H:\Desktop\Orientação Objetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04Exercic
 H:\Desktop\Orientação Objetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.dll
 H:\Desktop\Orientação Objetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.pdb
 H:\Desktop\Orientação Objetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.genruntimeconfig.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.genruntimeconfig.cache

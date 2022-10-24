@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.genruntimeconfig.cache

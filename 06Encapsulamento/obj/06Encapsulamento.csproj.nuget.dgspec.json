@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\04ExercicioIMC\\04ExercicioIMC.csproj": {}
+    "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\06Encapsulamento\\06Encapsulamento.csproj": {}
   },
   "projects": {
-    "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\04ExercicioIMC\\04ExercicioIMC.csproj": {
+    "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\06Encapsulamento\\06Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\04ExercicioIMC\\04ExercicioIMC.csproj",
-        "projectName": "04ExercicioIMC",
-        "projectPath": "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\04ExercicioIMC\\04ExercicioIMC.csproj",
+        "projectUniqueName": "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\06Encapsulamento\\06Encapsulamento.csproj",
+        "projectName": "06Encapsulamento",
+        "projectPath": "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\06Encapsulamento\\06Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\Leila\\.nuget\\packages\\",
-        "outputPath": "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\04ExercicioIMC\\obj\\",
+        "outputPath": "H:\\Desktop\\Programação orientada Objetos CSharp .NET\\06Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "H:\\Program Files\\NuGetPackages"
