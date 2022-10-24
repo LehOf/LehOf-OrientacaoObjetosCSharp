@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.genruntimeconfig.cache

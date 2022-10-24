@@ -6,7 +6,8 @@ namespace _07Construtor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var pessoa = new Pessoa();
+            var pessoa2 = new Pessoa("Leila");
         }
     }
 }
