@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\bin\Debug\netcoreapp3.1\14Interface.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\bin\Debug\netcoreapp3.1\14Interface.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\bin\Debug\netcoreapp3.1\14Interface.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\bin\Debug\netcoreapp3.1\14Interface.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\14Interface\obj\Debug\netcoreapp3.1\14Interface.genruntimeconfig.cache
