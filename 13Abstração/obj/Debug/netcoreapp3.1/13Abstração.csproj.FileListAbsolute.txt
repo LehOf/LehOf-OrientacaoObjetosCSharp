@@ -1,0 +1,14 @@
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.exe
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.deps.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.runtimeconfig.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.runtimeconfig.dev.json
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.csproj.AssemblyReference.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.AssemblyInfoInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.AssemblyInfo.cs
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.csproj.CoreCompileInputs.cache
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.dll
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.pdb
+H:\Desktop\Programação orientada Objetos CSharp .NET\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.genruntimeconfig.cache
